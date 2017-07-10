@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="model">
+     <class name="Scb" table="scb">
+        <id name="scId" column="scId" >
+              <generator class="uuid"/>
+        </id>
+        <property name="scPId" type="int" column="scPId"  />
+        <property name="scZhId" type="string" column="scZhId"  />
+        <property name="scTime" type="timestamp" column="scTime"  />
+     </class>
+</hibernate-mapping>
+

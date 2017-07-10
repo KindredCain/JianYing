@@ -1,0 +1,499 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(0, 153, 255, 1);
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:1010px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  z-index:-1;
+  left:0px;
+  top:0px;
+  width:1010px;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1010px;
+}
+#u1 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1006px;
+  visibility:hidden;
+  white-space:nowrap;
+}
+#u2 {
+  position:absolute;
+  left:19px;
+  top:770px;
+  width:970px;
+  height:50px;
+}
+#u2_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:970px;
+  height:50px;
+}
+#u3 {
+  position:absolute;
+  left:2px;
+  top:17px;
+  width:966px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4 {
+  position:absolute;
+  left:30px;
+  top:780px;
+  width:80px;
+  height:30px;
+}
+#u4_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  height:30px;
+}
+#u5 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:76px;
+  word-wrap:break-word;
+}
+#u6 {
+  position:absolute;
+  left:130px;
+  top:780px;
+  width:80px;
+  height:30px;
+}
+#u6_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  height:30px;
+}
+#u7 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:76px;
+  word-wrap:break-word;
+}
+#u8 {
+  width:974px;
+}
+#u8_img {
+  width:974px;
+}
+#u9 {
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u10 {
+  float: left;
+  width:750px;
+  height:200px;
+}
+#u10_img {
+  float: left;
+  width:760px;
+  height:210px;
+}
+#u11 {
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u12 {
+  float: left;
+  width:720px;
+  height:102px;
+  font-family:'YaHei Consolas Hybrid YaHei Consolas Hybrid Regular', 'YaHei Consolas Hybrid';
+  font-weight:400;
+  font-style:normal;
+  font-size:28px;
+}
+#u12_img {
+  float: left;
+  width:720px;
+  height:30px;
+}
+#u13 {
+  margin: 0 0 0 15px;
+  float: left;
+  word-wrap:break-word;
+}
+#u14 {
+  margin: 50px 0 0 15px;
+  float: left;
+  width:94px;
+  height:19px;
+  font-family:'微软雅黑 Light', '微软雅黑';
+  font-weight:290;
+  font-style:normal;
+  color:#999999;
+}
+#u14_img {
+  float: left;
+  width:94px;
+  height:19px;
+}
+#u15 {
+  float: left;
+  white-space:nowrap;
+}
+#u16 {
+  float: left;
+  width:100%;
+  height:120px;
+}
+#u16_img {
+  float: left;
+  width:980px;
+  height:130px;
+}
+#u17 {
+  float: left;
+  width:966px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u18 {
+  margin: 12px 0 0 15px;
+  float: left;
+  width:80px;
+  height:80px;
+}
+#u18_img {
+  float: left;
+  width:80px;
+  height:80px;
+}
+#u19 {
+  float: left;
+  width:76px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u20 {
+  float: left;
+  width:820px;
+  height:44px;
+  font-family:'YaHei Consolas Hybrid YaHei Consolas Hybrid Regular', 'YaHei Consolas Hybrid';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+}
+#u20_img {
+  float: left;
+  width:820px;
+  height:44px;
+}
+#u21 {
+  float: left;
+  width:820px;
+  word-wrap:break-word;
+}
+#u22 {
+  margin: 0 0 0 15px;
+  float: left;
+  width:40px;
+  height:19px;
+  font-family:'微软雅黑 Light', '微软雅黑';
+  font-weight:290;
+  font-style:normal;
+}
+#u22_img {
+  float: left;
+  width:40px;
+  height:19px;
+}
+#u23 {
+  float: left;
+  width:40px;
+  white-space:nowrap;
+}
+#u24 {
+  margin: 36px 0 0 800px;
+  float: left;
+  width:28px;
+  height:19px;
+  font-family:'微软雅黑 Light', '微软雅黑';
+  font-weight:290;
+  font-style:normal;
+  color:#999999;
+}
+#u24_img {
+  float: left;
+  width:28px;
+  height:19px;
+}
+#u25 {
+  float: left;
+  width:28px;
+  white-space:nowrap;
+}
+#u26 {
+  float: left;
+  width:224px;
+  height:200px;
+}
+#u26_img {
+  float: left;
+  width:234px;
+  height:210px;
+}
+#u27 {
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u28 {
+  margin: 10px 0 0 0;
+  float: left;
+  width:120px;
+  height:120px;
+}
+#u28_img {
+  float: left;
+  width:120px;
+  height:120px;
+}
+#u29 {
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u30 {
+  float: left;
+  width:97px;
+  height:17px;
+  font-family:'YaHei Consolas Hybrid YaHei Consolas Hybrid Regular', 'YaHei Consolas Hybrid';
+  font-weight:400;
+  font-style:normal;
+}
+#u30_img {
+  float: left;
+  width:97px;
+  height:17px;
+}
+#u31 {
+  float: left;
+  width:97px;
+  white-space:nowrap;
+}
+#u32 {
+  margin: 15px 0 5px 15px;
+  float: left;
+  width:70px;
+  height:40px;
+  font-family:'YaHei Consolas Hybrid YaHei Consolas Hybrid Regular', 'YaHei Consolas Hybrid';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
+}
+#u32_img {
+  float: left;
+  width:70px;
+  height:40px;
+}
+#u33 {
+  margin: 10px 0 10px 2px;
+  float: left;
+  width:66px;
+  word-wrap:break-word;
+}
+#u34 {
+  margin: 15px 0 5px 15px;
+  float: left;
+  width:70px;
+  height:40px;
+  font-family:'YaHei Consolas Hybrid YaHei Consolas Hybrid Regular', 'YaHei Consolas Hybrid';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
+}
+#u34_img {
+  float: left;
+  width:70px;
+  height:40px;
+}
+#u35 {
+  margin: 10px 0 10px 2px;
+  float: left;
+  width:66px;
+  word-wrap:break-word;
+}
+#u36 {
+  margin: 15px 0 5px 15px;
+  float: left;
+  width:70px;
+  height:40px;
+  font-family:'YaHei Consolas Hybrid YaHei Consolas Hybrid Regular', 'YaHei Consolas Hybrid';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
+}
+#u36_img {
+  float: left;
+  width:70px;
+  height:40px;
+}
+#u37 {
+  margin: 10px 0 10px 2px;
+  float: left;
+  width:66px;
+  word-wrap:break-word;
+}
+#u38 {
+  position:fixed;
+  left:50%;
+  margin-left:-485px;
+  bottom:0px;
+  visibility:hidden;
+}
+#u38_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  background-image:none;
+}
+#u38_state0_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u39 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:970px;
+  height:80px;
+}
+#u39_img {
+  position:absolute;
+  left:0px;
+  top:-10px;
+  width:980px;
+  height:90px;
+}
+#u40 {
+  position:absolute;
+  left:2px;
+  top:32px;
+  width:966px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u41 {
+  position:absolute;
+  left:11px;
+  top:15px;
+  width:50px;
+  height:50px;
+}
+#u41_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:50px;
+  height:50px;
+}
+#u42 {
+  position:absolute;
+  left:2px;
+  top:17px;
+  width:46px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u43 {
+  position:absolute;
+  left:130px;
+  top:15px;
+  width:770px;
+  height:50px;
+}
+#u43_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:770px;
+  height:50px;
+  font-family:'微软雅黑 Light', '微软雅黑';
+  font-weight:290;
+  font-style:normal;
+  font-size:18px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
+}
+#u44 {
+  position:absolute;
+  left:80px;
+  top:25px;
+  width:30px;
+  height:30px;
+}
+#u44_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:30px;
+  height:30px;
+}
+#u45 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:26px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u46 {
+  position:absolute;
+  left:910px;
+  top:15px;
+  width:50px;
+  height:50px;
+  font-family:'微软雅黑 Light', '微软雅黑';
+  font-weight:290;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
+}
+#u46_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:50px;
+  height:50px;
+}
+#u47 {
+  position:absolute;
+  left:2px;
+  top:14px;
+  width:46px;
+  word-wrap:break-word;
+}

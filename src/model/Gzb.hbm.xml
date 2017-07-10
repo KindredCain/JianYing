@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="model">
+     <class name="Gzb" table="gzb">
+        <id name="gzId" column="gzId" >
+              <generator class="uuid"/>
+        </id>
+        <property name="gzZh" type="string" column="gzZh"  />
+        <property name="gzZhId" type="string" column="gzZhId"  />
+        <property name="gzTime" type="timestamp" column="gzTime"  />
+     </class>
+</hibernate-mapping>
+
